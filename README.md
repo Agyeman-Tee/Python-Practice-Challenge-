@@ -38,12 +38,12 @@ These are **basic Python codes**, focused on strengthening core concepts and bui
  🚀 Week 3: Functions, Lists, Dictionaries
 
 * [x] Day 15 – List Summer
-* [ ] Day 16 – Duplicate Remover
-* [ ] Day 17 – Prime Checker (Function)
-* [ ] Day 18 – Letter Counter
-* [ ] Day 19 – To-Do List
-* [ ] Day 20 – Second Largest
-* [ ] Day 21 – Fibonacci Generator
+* [x] Day 16 – Duplicate Remover
+* [x] Day 17 – Prime Checker (Function)
+* [x] Day 18 – Letter Counter
+* [x] Day 19 – To-Do List
+* [x] Day 20 – Second Largest
+* [x] Day 21 – Fibonacci Generator
 
  ⏳ Week 4: Files, Error Handling, Small Projects
 
